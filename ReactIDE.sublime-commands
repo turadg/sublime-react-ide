@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "ReactIDE: Make import for current file",
+    "command": "make_import"
+  },
+  {
+    "caption": "ReactIDE: Switch between component and test",
+    "command": "switch_component_test"
+  },
+  {
+    "caption": "ReactIDE: Switch between component and stylesheet",
+    "command": "switch_component_stylesheet"
+  }
+]
