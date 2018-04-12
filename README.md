@@ -47,6 +47,9 @@ Navigate to your Sublime Text packages folder and git clone this project.
 #### MacOS ####
 "/Users/{user}/Library/Application Support/Sublime Text {2|3}/Packages"
 
+#### Ubuntu ####
+"~/.config/sublime-text-3/Packages"
+
 #### Windows ####
 "C:\Users\{user}\AppData\Roaming\Sublime Text {2|3}\Packages"
 
